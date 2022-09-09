@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1L5Ok0m7j6dBRi2YjK6JLeLqzGak9+/MqBUxx75mPKfQ2B+cUtLAmWfqFRbAN4f2CMebFKoqE2nTFY+6aSKWmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\momf\\OneDrive - GFT Technologies SE\\Documents\\__Projetos\\CreditSuisse-main\\CreditSuisse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\momf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
